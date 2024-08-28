@@ -1,6 +1,7 @@
 """
 This script shows the state and behavior of a switch, that can be either
 on or off.
+Note that we will need to use the global keyword
 """
 def turnOn():
   switch_is_on
